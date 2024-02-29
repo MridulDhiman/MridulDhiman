@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm Mridul Dhiman</p>
-<p align="center" style="font-size:1.5rem;"> Passionate MERN stack/ Next.js Web Developer</p>
+## <p align="center"> Passionate MERN stack/ Next.js Web Developer</p>
 
 
 
