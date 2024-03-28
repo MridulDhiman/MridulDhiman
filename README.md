@@ -5,7 +5,7 @@
 
 ### 💫 About Me:
 
-🔭 I’m currently working on CodeShard<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning DSA, C++<br>💬 Ask me about MERN stack, Next.js<br>📫 How to reach me dhimanmridul91@gmail.com<br>⚡ Fun fact I love reading manga
+🔭 I’m currently working on CodeShard<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently trying to understand modern industry practices, DevOps<br>💬 Ask me about MERN stack, Next.js<br>📫 How to reach me dhimanmridul91@gmail.com<br>⚡ Fun fact I love reading manga
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mridul-dhiman-235b6924b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MridulDhiman11) 
