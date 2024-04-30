@@ -16,14 +16,8 @@
 
 
 
-### 📊 GitHub Stats:
 
-
-![](https://github-readme-stats.vercel.app/api?username=MridulDhiman&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MridulDhiman&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MridulDhiman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
