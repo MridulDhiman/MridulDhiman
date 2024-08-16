@@ -2,6 +2,7 @@
 ## <p align="center"> Passionate Web Developer from India.</p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MridulDhiman&label=Profile%20views&color=0e75b6&style=flat" alt="mridul-dhiman" /></p>
 
 ### 💫 About Me:
 
