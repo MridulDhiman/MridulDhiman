@@ -1,4 +1,4 @@
-Currently exploring backend and devops stuff.
+Currently exploring backend, devops and genai stuff.
 
 Projects I'm currently working on:
 -  <a href="https://github.com/MridulDhiman/code-shard">code-shard</a>: browser based collaborative code editor with built-in frontend templates support
