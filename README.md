@@ -15,4 +15,4 @@ Open Source Contributions:
 
 - <a href="https://github.com/glasskube/glasskube/issues?q=is%3Aissue+assignee%3AMridulDhiman+is%3Aclosed">glasskube</a>
 
-Check out my blogs <a href="https://tarkhanwrites.bearblog.dev">here</a>.
+Check out my blogs <a href="https://mridul.bearblog.dev">here</a>.
