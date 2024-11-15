@@ -4,6 +4,9 @@ repos I'm currently working on:
 -  <a href="https://github.com/MridulDhiman/code-shard">code-shard</a>: browser based collaborative code editor with built-in frontend templates support
 -  <a href="https://github.com/MridulDhiman/oss-journal">oss-journal</a>: exploring open source repos and recreating some of their initial commits
 -  <a href="https://github.com/MridulDhiman/chronotable">chronotable</a>: Hash table with AOF persistence and version based snapshotting
+-  <a href="https://github.com/MridulDhiman/multitab-server">multitab-server</a>: multitab collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
+
+
 
  Other Projects: 
  - <a href="https://github.com/MridulDhiman/remote-code-execution-engine">remote-code-execution-engine</a>: multithreaded code execution API in golang.
