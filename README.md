@@ -1,8 +1,6 @@
 Currently exploring backend, devops and genai stuff.
-	
-	repos I'm currently working on:\n
-	- <a href='https://github.com/MridulDhiman/MridulDhiman'>MridulDhiman</a>: 
-- <a href='https://github.com/MridulDhiman/multitab-server'>multitab-server</a>: multitab collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
+	repos I'm currently working on:
+	- <a href='https://github.com/MridulDhiman/multitab-server'>multitab-server</a>: multitab collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
 
 Other Projects: 
  - <a href="https://github.com/MridulDhiman/remote-code-execution-engine">remote-code-execution-engine</a>: multithreaded code execution API in golang.
