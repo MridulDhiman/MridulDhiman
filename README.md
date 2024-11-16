@@ -1,5 +1,6 @@
 Currently exploring backend, devops and genai stuff.
-repos I'm currently working on:
+	
+	repos I'm currently working on:- <a href='https://github.com/MridulDhiman/MridulDhiman'>MridulDhiman</a>: 
 - <a href='https://github.com/MridulDhiman/multitab-server'>multitab-server</a>: multitab collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
 
 Other Projects: 
@@ -13,4 +14,4 @@ Other Projects:
 Open Source Contributions:
 - <a href="https://github.com/glasskube/glasskube/issues?q=is%3Aissue+assignee%3AMridulDhiman+is%3Aclosed">glasskube</a>
 
-\nCheck out my blogs <a href="https://mridul.bearblog.dev">here</a>.
+Check out my blogs <a href="https://mridul.bearblog.dev">here</a>.
