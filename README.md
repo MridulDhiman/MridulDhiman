@@ -2,8 +2,8 @@
 Currently exploring backend, devops and genai stuff.
 
 repos I'm currently working on:
-	
-
+- <a href="https://github.com/MridulDhiman/code-shard">code-shard</a>: Collaborative Code Editor where user can create, edit and view frontend and server side code snippets directly on your browser. Users can join room and collaborate to see realtime updates.
+  
 Other Projects: 
 - <a href="https://github.com/MridulDhiman/remote-code-execution-engine">remote-code-execution-engine</a>: multithreaded code execution API in golang.
 - <a href="https://github.com/MridulDhiman/goexpress">goexpress</a>: express.js implementation in golang
