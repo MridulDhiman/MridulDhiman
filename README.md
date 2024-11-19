@@ -2,8 +2,10 @@
 Currently exploring backend, devops and genai stuff.
 
 repos I'm currently working on:
-- <a href="https://github.com/MridulDhiman/code-shard">code-shard</a>: Collaborative Code Editor where user can create, edit and view frontend and server side code snippets directly on your browser. Users can join room and collaborate to see realtime updates.
-  
+	
+- <a href='https://github.com/MridulDhiman/cron-latest-repos'>cron-latest-repos</a>: cron job to list out the repositories in your github profile through github workflow, on which you have committed in the last 24 hrs 
+- <a href='https://github.com/MridulDhiman/multitab-server'>multitab-server</a>: multitab collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
+
 Other Projects: 
 - <a href="https://github.com/MridulDhiman/remote-code-execution-engine">remote-code-execution-engine</a>: multithreaded code execution API in golang.
 - <a href="https://github.com/MridulDhiman/goexpress">goexpress</a>: express.js implementation in golang
