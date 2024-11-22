@@ -3,7 +3,7 @@ Currently exploring backend, devops and genai stuff.
 
 repos I'm currently working on:
 	
-- <a href='https://github.com/MridulDhiman/aws.tf'>aws.tf</a>: Basic Terraform AWS configurations 
+- <a href='https://github.com/MridulDhiman/rapidfort-assignment'>rapidfort-assignment</a>: 
 
 Other Projects: 
 - <a href="https://github.com/MridulDhiman/remote-code-execution-engine">remote-code-execution-engine</a>: multithreaded code execution API in golang.
