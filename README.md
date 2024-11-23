@@ -2,12 +2,16 @@
 Currently exploring backend, devops and genai stuff.
 
 repos I'm currently working on:
-- <a href="https://github.com/MridulDhiman/remote-code-execution-engine">remote-code-execution-engine</a>: multithreaded code execution API in golang.
-- <a href="https://github.com/MridulDhiman/goexpress">goexpress</a>: express.js implementation in golang
-- <a href="https://github.com/MridulDhiman/aws.tf">aws.tf</a>: Basic AWS terraform scripts
-- <a href="https://github.com/MridulDhiman/source-shift">source-shift</a>: Simple Transpiler in JS
-- <a href="https://github.com/MridulDhiman/zanpakuto">zanpakuto</a>: Forge templates through scripts
-- <a href="https://github.com/MridulDhiman/BBCalendar">bbcalendar</a>: CLI based Calendar application written in C
+	
+- <a href='https://github.com/MridulDhiman/cron-latest-repos'>cron-latest-repos</a>: cron job to list out the repositories in your github profile through github workflow, on which you have committed in the last 24 hrs 
+
+Other Projects: 
+    
+- <a href='https://github.com/MridulDhiman/aws.tf'>aws.tf</a>: Basic Terraform AWS configurations 
+- <a href='https://github.com/MridulDhiman/chronotable'>chronotable</a>: Hash table with AOF persistence and version based snapshotting.
+- <a href='https://github.com/MridulDhiman/cron-latest-repos'>cron-latest-repos</a>: cron job to list out the repositories in your github profile through github workflow, on which you have committed in the last 24 hrs 
+- <a href='https://github.com/MridulDhiman/multitab-server'>multitab-server</a>: multitab collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
+- <a href='https://github.com/MridulDhiman/oss-journal'>oss-journal</a>: exploring open source repositories and keep myself accountable by maintaining this repository
 
 Open Source Contributions:
 - <a href="https://github.com/glasskube/glasskube/issues?q=is%3Aissue+assignee%3AMridulDhiman+is%3Aclosed">glasskube</a>
