@@ -5,7 +5,7 @@ repos I'm currently working on:
 	
 - <a href='https://github.com/MridulDhiman/cron-latest-repos'>cron-latest-repos</a>: cron job to list out the repositories in your github profile through github workflow, on which you have committed in the last 24 hrs 
 
-Other Projects: 
+Main Projects: 
     
 - <a href='https://github.com/MridulDhiman/aws.tf'>aws.tf</a>: Basic Terraform AWS configurations 
 - <a href='https://github.com/MridulDhiman/chronotable'>chronotable</a>: Hash table with AOF persistence and version based snapshotting.
