@@ -4,6 +4,7 @@ Currently exploring backend, devops and genai stuff.
 repos I'm currently working on:
 	
 - <a href='https://github.com/MridulDhiman/chronotable'>chronotable</a>: Hash table with AOF persistence and version based snapshotting.
+- <a href='https://github.com/MridulDhiman/cron-latest-repos'>cron-latest-repos</a>: cron job to list out the repositories in your github profile through github workflow, on which you have committed in the last 24 hrs 
 
 Main Projects: 
     
