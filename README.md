@@ -3,6 +3,7 @@ Currently exploring backend, devops and genai stuff.
 
 repos I'm currently working on:
 	
+- <a href='https://github.com/MridulDhiman/chronotable'>chronotable</a>: Hash table with AOF persistence and version based snapshotting.
 - <a href='https://github.com/MridulDhiman/vulcan'>vulcan</a>: simple scaffolding tool in go
 
 Main Projects: 
