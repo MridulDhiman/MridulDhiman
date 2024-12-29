@@ -8,7 +8,6 @@ Repos I'm currently working on:
 Actively Committed Repos(since last month): 
     
 - <a href='https://github.com/codeshardlabs/multifile-collaboration-server'>multi-file-collab</a>: multi file collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
-- <a href='https://github.com/codeshardlabs/multitab-server'>multitab-server</a>: multi file collaboration socket.io server using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
 - <a href='https://github.com/MridulDhiman/cron-latest-repos'>cron-latest-repos</a>: cron job to list out the repositories in your github profile through github workflow, on which you have committed in the last 24 hrs 
 - <a href='https://github.com/MridulDhiman/chronotable'>chronotable</a>: Hash table with AOF persistence and version based snapshotting.
 - <a href='https://github.com/MridulDhiman/vulcan'>vulcan</a>: simple scaffolding tool in go
