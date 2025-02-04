@@ -3,7 +3,6 @@ Currently exploring backend, devops and genai stuff.
 
 Repos I'm currently working on:
 	
-- <a href='https://github.com/codeshardlabs/codeshard'>codeshard</a>: Collaborative Code Editor  where user can create, edit and view frontend and server side code snippets directly on your browser. Users can join room and collaborate to see realtime updates.
 - <a href='https://github.com/codeshardlabs/multi-file-collab'>multi-file-collab</a>: scalable socket.io server for realtime collaboration using redis kv store for room management, redis pub/sub for scaling websockets, bullmq queue and workers for flushing realtime code state to db.
 
 Actively Committed Repos(since last month): 
